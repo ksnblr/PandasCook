@@ -1,7 +1,7 @@
 Pandas cookbook
 ===============
 
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/ksnblr/PandasCook/master
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ksnblr/PandasCook/master)
 
 [pandas](http://pandas.pydata.org/) is a Python library for doing
 data analysis. It's really fast and lets you do exploratory work
